@@ -6,6 +6,6 @@ LastName varchar(100) , Phone varchar(100) );
 Insert Into phonebook 
 (Name , LastName , Phone) 
 Value 
-(Ashkan,Rafiee,09366473524),(Ashi,Mashi,09352181218);
+(Ashkan,Rafiee,09999999999),(Ashi,Mashi,09999999999);
 
 
